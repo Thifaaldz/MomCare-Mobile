@@ -355,7 +355,3 @@ Dikembangkan sebagai proyek tugas akhir/kapstone.
 
 ---
 
-<p align="center">
-  Dibuat dengan ❤️ untuk ibu hamil Indonesia
-</p>
-
